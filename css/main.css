@@ -40,3 +40,20 @@ p {
   }
 
 }
+
+/***** DESKTOP *****/
+
+@media (min-width: 1200px) {
+
+  h1 {
+    color: #6e4b61;
+  }
+
+  h2 {
+    color: #cabd61;
+  }
+
+  p {
+    color: #c19e74;
+  }
+}
