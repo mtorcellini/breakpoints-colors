@@ -22,3 +22,21 @@ h2 {
 p {
   color: #ff8641;
 }
+
+/***** TABLET *****/
+
+@media (min-width: 768px) {
+
+  h1 {
+    color: #02cbd2;
+  }
+
+  h2 {
+    color: #fcc02a;
+  }
+
+  p {
+    color: #7b8f8e;
+  }
+
+}
